@@ -1,11 +1,8 @@
-# Báo cáo thử nghiệm các thuật toán sắp xếp
+# Báo cáo hiệu năng của các thuật toán sắp xếp
 
-**Sinh viên thực hiện:** Nguyễn Ngọc Nhớ
+- **Tên sinh viên thực hiện:** Nguyễn Minh Khang
+- **MSSV:** 25520793
+- **Lớp:** TTNT2025
 
-
-**Lớp:** KHTN2025
-
-
-**MSSV:** 25521339
-## Nội dung
-Repository này chứa mã nguồn và báo cáo kết quả so sánh hiệu năng của các giải thuật: QuickSort, HeapSort, MergeSort và NumPy Sort.
+### Kết quả so sánh hiệu năng
+Nội dung tập trung phân tích và so sánh thời gian thực thi, độ phức tạp của các thuật toán sắp xếp
